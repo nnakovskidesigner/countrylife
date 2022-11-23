@@ -1,0 +1,55 @@
+body {
+  /* background-color: rgb(6, 158, 223); */
+  background: url(https://i.postimg.cc/yNzL5JZ3/pexels-pixabay-531756.jpg)
+    no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h1 {
+  color: red;
+  font-size: 3em;
+  /* margin: 0 auto; */
+  text-align: center;
+  -webkit-text-stroke-width: 0.9px;
+  -webkit-text-stroke-color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#sun {
+  position: fixed;
+  right: 2%;
+  top: 1%;
+  width: 250px;
+}
+#grass {
+  background-color: rgb(5, 168, 38);
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  height: 30%;
+}
+#ovca {
+  width: 15%;
+  left: 10%;
+  bottom: 5%;
+  position: absolute;
+}
+#krava {
+  width: 15%;
+  left: 48%;
+  bottom: 29.5%;
+  position: absolute;
+}
+#drvo {
+  width: 25%;
+  right: 10%;
+  bottom: 5%;
+  position: absolute;
+}
+#barn {
+  width: 55%;
+  left: -10%;
+  bottom: -5%;
+  position: fixed;
+}
